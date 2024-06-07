@@ -160,7 +160,7 @@
             {
               "Type": "float",
               "Member": "X",
-              "Value": 64.0,
+              "Value": 200.0,
               "Time": 0.0
             },
             {
