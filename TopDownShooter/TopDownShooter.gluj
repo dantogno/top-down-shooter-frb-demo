@@ -50,6 +50,13 @@
       "DestroyOnUnload": false,
       "HasPublicProperty": true,
       "ProjectsToExcludeFrom": []
+    },
+    {
+      "Name": "GlobalContent/tyrian_shp_007D3C.png",
+      "IsSharedStatic": true,
+      "DestroyOnUnload": false,
+      "HasPublicProperty": true,
+      "ProjectsToExcludeFrom": []
     }
   ],
   "GlobalContentSettingsSave": {},

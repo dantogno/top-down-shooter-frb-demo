@@ -27,9 +27,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <Name>zoriaspritessheetmodified</Name>
     </None>
-    <None Include="Content\Entities\Player\ZoriaTopDownAnimations.achx">
+    <None Include="Content\GlobalContent\tyrian_shp_007D3C.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <Name>ZoriaTopDownAnimations</Name>
+      <Name>tyrian_shp_007D3C</Name>
     </None>
     <None Include="Content\GumProject\Components\Controls\ButtonClose.gucx">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
