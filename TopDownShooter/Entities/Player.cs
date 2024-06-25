@@ -22,13 +22,18 @@ namespace TopDownShooter.Entities
         private void CustomInitialize()
         {
 
-
+            
         }
 
         private void CustomActivity()
         {
-
-
+            if (Velocity.Length() > 0.1f)
+            {
+                if (Velocity.Angle() != null)
+                    {
+                        RotationZ = (float)Velocity.Angle() - MathF.PI/2;
+                    } 
+            }
         }
 
         private void CustomDestroy()
