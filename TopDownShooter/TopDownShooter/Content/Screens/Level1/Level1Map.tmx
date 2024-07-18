@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="48" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" source="../../StandardTileset.tsx"/>
- <layer id="1" name="GameplayLayer" width="32" height="32" tintcolor="#ffffff">
+ <layer id="1" name="GameplayLayer" width="48" height="32" tintcolor="#ffffff">
   <data encoding="base64" compression="gzip">
-   H4sIAAAAAAAACu3OsQ0AAAgCQdx/SjaxN9bQPMnH8hxJU641fHx8fPx/Lvou+j437d8/8PHxc76fkn5q+Pj4fb/ZAuJvBuUAEAAA
+   H4sIAAAAAAAACu2WUQrAIAxD6/1P6U32NRhuxW4xWkcCxY81yfsYYjGzsvmM1Js8tFv8z5mMXc8v/nsmY9fzM/ijuRn5r9kjdnp+Jn8vOzP/mY98j+SL/3s2m7+C2SN2en4voxrGP0Mef23OrGL+PzMk/rVazZ/5/oz2o37xY/2o37v/22Eo8/sn2o/6xY/1o37xY/2oX/xYP+r/A//OcwCN+x+kABgAAA==
   </data>
  </layer>
 </map>
