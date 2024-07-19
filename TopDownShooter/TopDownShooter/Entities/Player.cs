@@ -27,7 +27,10 @@ namespace TopDownShooter.Entities
 
         private void CustomActivity()
         {
-
+            if(Velocity.Length() > 0.1f)
+            {
+                RotationZ = (float)Velocity.Angle() - MathF.PI/2;
+            }
 
         }
 
